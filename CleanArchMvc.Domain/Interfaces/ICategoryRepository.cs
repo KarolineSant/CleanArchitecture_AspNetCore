@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace CleanArchMvc.Domain.Interfaces
 {
-    interface ICategoryRepository
+    public interface ICategoryRepository
     {
         // Não tem implementação, são apenas assinatura dos métodos, que serão implementados na classe concreta.
-        Task<IEnumerable<Product>> GetProductsAsync();
-        Task<Product> GetByIdAsyc(int? id);
-        Task<Product> GetProductCategoryAsync(int? id);
-        Task<Product> Create(Product product);
-        Task<Product> Update(Product product);
-        Task<Product> Remove(Product product);
+        Task<IEnumerable<Category>> GetCategories();
+        Task<Category> GetById(int? id);
+
+        Task<Category> Create(Category category);
+        Task<Category> Update(Category category);
+        Task<Category> Remove(Category category);
     }
 }

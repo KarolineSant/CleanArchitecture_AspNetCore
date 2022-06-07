@@ -12,3 +12,4 @@ C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.Application\o
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\ref\CleanArchMvc.Application.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.pdb
+C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
