@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PIadgVi0NZOs8I2R1acH9dDBXHi12B0hrWgd4ywYySpJuVyQbaTuy99G/w6QvEbdCi1PotJ1iet8p7kXWgLMUw==",
+  "dgSpecHash": "3GlpgweydBH+uUWJFPAg6iD+6wKL5RJy4F/DSpKI458lMXwt4EHq9Z7TFv7jA4c47B2hkgbwig0e4l52ma16AA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Karol\\Desktop\\CleanArchi_Course\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
