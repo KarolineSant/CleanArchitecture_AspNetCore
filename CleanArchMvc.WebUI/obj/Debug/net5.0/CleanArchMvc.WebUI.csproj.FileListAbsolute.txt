@@ -123,8 +123,6 @@ C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Deb
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
-C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
-C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
@@ -223,7 +221,6 @@ C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Deb
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Resources.Reader.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Resources.Writer.dll
-C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
@@ -293,7 +290,6 @@ C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Deb
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Humanizer.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.dll
-C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Contracts.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
@@ -310,6 +306,8 @@ C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Deb
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
@@ -321,6 +319,7 @@ C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Deb
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -383,9 +382,17 @@ C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Deb
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.input.cache
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.output.cache
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.RazorCoreGenerate.cache
+C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
-C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Karol\Desktop\CleanArchi_Course\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
